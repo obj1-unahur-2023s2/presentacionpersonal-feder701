@@ -27,11 +27,11 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Federico Rodriguez
 
-Me gusta ...
+Me gusta hacer deporte
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de Tecnico en reparacion de pc
 
 Les dejo una imagen mía 
 
